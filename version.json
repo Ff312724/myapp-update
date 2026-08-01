@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "download_url": "https://www.jianguoyun.com/d/DUhbYVwQ1tK3DhiJwa4GIAA?download=1",
-  "notes": "修复了一些问题",
+  "notes": "修复了一些问题，更新了ui，添加了选中翻译功能，可以在使用说明中查看详情",
   "min_version": "1.0.0"
 }
