@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "download_url": "https://www.jianguoyun.com/c/dl-file/%E8%87%AA%E5%8A%A8%E5%90%8D%E7%89%87.exe?dt=tj3r0o&sd=i0tw6&kv=MzY5MTU4NjYzN0BxcS5jb20&vr=5&ud=5lAxeSKlBytntbz9OEk_bF-MhDeFjvb0Xiiqa_6EKlM",
   "notes": "修复了一些问题，更新了ui，添加了选中翻译功能，可以在使用说明中查看详情，增加了界面方框等标识隐藏的开关，热键初始设置改为ctrl加原始的上下左右键",
   "min_version": "1.0.0"
